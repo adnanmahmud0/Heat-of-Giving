@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "title": "Warm Smiles for Dhaka",
+      "image": "https://sparbd.org/wp-content/uploads/2023/09/winter-special-banner-scaled.webp",
+      "description": "Providing blankets and warm clothes to the underprivileged in Dhaka city slums.",
+      "status": "Active",
+      "contactInfo": "dhaka@warmthbd.org",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Chattogram Winter Drive",
+      "image": "https://assets.telegraphindia.com/abp/2017/2/6/1608109485_5fd9cdadc48c8_bangladesh.jpg",
+      "description": "Helping rural communities in Chattogram stay warm this winter.",
+      "status": "Active",
+      "contactInfo": "chattogram@warmthbd.org",
+      "division": "Chattogram"
+    },
+    {
+      "id": 3,
+      "title": "Sylhet Blanket Donation",
+      "image": "https://clubrunner.blob.core.windows.net/00000015009/Images/139045630_3528194057276421_3404927726693755108_o.jpg",
+      "description": "Distributing blankets in the cold hills of Sylhet.",
+      "status": "Active",
+      "contactInfo": "sylhet@warmthbd.org",
+      "division": "Sylhet"
+    },
+    {
+      "id": 4,
+      "title": "Khulna Warm Clothing Campaign",
+      "image": "https://wfad.se/wp-content/uploads/2022/01/MA-Khulna-Bangladesh-11-1024x768.jpg",
+      "description": "Delivering warm clothes to remote villages in Khulna.",
+      "status": "Active",
+      "contactInfo": "khulna@warmthbd.org",
+      "division": "Khulna"
+    },
+    {
+      "id": 5,
+      "title": "Barishal Cold Relief",
+      "image": "https://voice7news.tv/uploads/pic1-20240112162044.jpg",
+      "description": "Supporting fishermen families in Barishal during the chilly season.",
+      "status": "Active",
+      "contactInfo": "barishal@warmthbd.org",
+      "division": "Barishal"
+    },
+    {
+      "id": 6,
+      "title": "Rangpur Blanket Drive",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2022/01/20/grameen_uniqlo_donation_photos_1.jpg",
+      "description": "Reaching out to Rangpur’s most affected by the winter cold.",
+      "status": "Active",
+      "contactInfo": "rangpur@warmthbd.org",
+      "division": "Rangpur"
+    },
+    {
+      "id": 7,
+      "title": "Mymensingh Warmth Initiative",
+      "image": "https://i0.wp.com/basmah-bd.org/wp-content/uploads/2024/01/415693881_746806897484341_6707128308184590397_n.jpg?fit=2048%2C1536&ssl=1",
+      "description": "Bringing warmth to families in rural Mymensingh.",
+      "status": "Active",
+      "contactInfo": "mymensingh@warmthbd.org",
+      "division": "Mymensingh"
+    },
+    {
+      "id": 8,
+      "title": "Rajshahi Cold Relief",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjXuDVMu2YVHZke54WvaOMmbPFT2KZHrvNg&s",
+      "description": "Providing essential winter clothing in the hard-hit areas of Rajshahi.",
+      "status": "Active",
+      "contactInfo": "rajshahi@warmthbd.org",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 9,
+      "title": "Comilla Winter Warmth Drive",
+      "image": "https://muslimaid-2022.storage.googleapis.com/upload/www.muslimaid.org/media-centre/news/18-02-14_12-10-09_winter-distrubution-bangladesh1%20%28copy%202%29.jpg",
+      "description": "Helping the underserved communities in Comilla stay warm.",
+      "status": "Active",
+      "contactInfo": "comilla@warmthbd.org",
+      "division": "Cumilla"
+    },
+    {
+      "id": 10,
+      "title": "Jessore Warm Clothing Distribution",
+      "image": "https://globalaid.org.uk/wp-content/uploads/elementor/thumbs/winter-clothes-e1687740931481-q8iaokfull2bumad0n6pzkhz8x7x01iibnkt8salk0.jpg",
+      "description": "Distributing donated clothes to the rural areas of Jessore.",
+      "status": "Active",
+      "contactInfo": "jessore@warmthbd.org",
+      "division": "Jashore"
+    },
+    {
+      "id": 11,
+      "title": "Pabna Cold Weather Relief",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-g6eRbM0IY4chz-1ExActXimzsgz7TRhaS8fw99iuT4pZKZWl98Z24wiEJmsY1z1EjU&usqp=CAU",
+      "description": "Supporting families in the Pabna district with winter essentials.",
+      "status": "Active",
+      "contactInfo": "pabna@warmthbd.org",
+      "division": "Pabna"
+    },
+    {
+      "id": 12,
+      "title": "Noakhali Blanket Campaign",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsSyI7arLKoXUhXJ7YStsD1tJf2aSrr-VL3-cxNT-5NxugIuNQQ3cp6JzElFwzCBGTF0&usqp=CAU",
+      "description": "Providing warmth to underprivileged communities in Noakhali.",
+      "status": "Active",
+      "contactInfo": "noakhali@warmthbd.org",
+      "division": "Noakhali"
+    }
+  ]
+  
